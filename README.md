@@ -48,3 +48,6 @@ An open source visual routing tool that pursues light weight, developed using Go
 
 ## 更多项目
   [https://github.com/nxtrace](https://github.com/nxtrace)
+
+## Copyright
+  本组织所有项目均为 GNU General Public License v3.0 协议，若有不同或未添加均以此处为准。
