@@ -28,7 +28,7 @@ An open source visual routing tool that pursues light weight, developed using Go
 
 
 
-我们非常感谢 [DMIT](https://dmit.io)、 [Misaka](https://misaka.io)、 [Skywolf](https://skywolf.cloud) 和 [SnapStack](https://portal.saltyfish.io) 提供了支持本项目所需的网络基础设施。
+我们非常感谢 [DMIT](https://dmit.io)、 [Misaka](https://misaka.io) 和 [SnapStack](https://portal.saltyfish.io) 提供了支持本项目所需的网络基础设施。
 
 
 ## NTrace
