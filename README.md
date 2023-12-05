@@ -31,7 +31,7 @@ An open source visual routing tool that pursues light weight, developed using Go
 我们非常感谢 [DMIT](https://dmit.io)、 [Misaka](https://misaka.io) 和 [SnapStack](https://portal.saltyfish.io) 提供了支持本项目所需的网络基础设施。
 
 
-## NTrace
+## NextTrace
 - **NTrace-core**<br>
   NextTrace Master<br>
   [https://nxtrace.github.io/NTrace-core/](https://nxtrace.github.io/NTrace-core/)
@@ -39,11 +39,11 @@ An open source visual routing tool that pursues light weight, developed using Go
   NextTrace DEV, 所有的开发工作<br>
   [https://nxtrace.github.io/NTrace-V1/](https://nxtrace.github.io/NTrace-V1/)
 
-## nexttracewebapi
+## NextTraceWebApi
   MTR风格的NextTrace网页WRAPPER<br>
   [https://nxtrace.github.io/nexttracewebapi/](https://nxtrace.github.io/nexttracewebapi/)
   
-## nali
+## Nali
   集成了NextTrace LEOMOEAPI的nali<br>
   [https://nxtrace.github.io/nali/](https://nxtrace.github.io/nali/)
 
