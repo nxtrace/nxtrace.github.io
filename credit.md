@@ -18,6 +18,6 @@
 
 [FFEE_CO](https://github.com/fkx4-p)
 
-[fakeboboliu](https://github.com/fakeboboliu)
+[bobo liu](https://github.com/fakeboboliu)
 
 [YekongTAT](https://github.com/isyekong)
