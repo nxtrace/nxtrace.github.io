@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center">
-  <br>nxtrace.github.io<br>
+    nxtrace.github.io  
 </h1>
 
 An open source visual routing tool that pursues light weight, developed using Golang.
@@ -32,19 +32,19 @@ An open source visual routing tool that pursues light weight, developed using Go
 
 
 ## NextTrace
-- **NTrace-core**<br>
-  NextTrace Master<br>
+- **NTrace-core**  
+  NextTrace Master  
   [https://nxtrace.github.io/NTrace-core/](https://nxtrace.github.io/NTrace-core/)
-- **NTrace-V1**<br>
-  NextTrace DEV, 所有的开发工作<br>
+- **NTrace-V1**  
+  NextTrace DEV, 所有的开发工作  
   [https://nxtrace.github.io/NTrace-V1/](https://nxtrace.github.io/NTrace-V1/)
 
 ## NextTraceWebApi
-  MTR风格的NextTrace网页WRAPPER<br>
+  MTR风格的NextTrace网页WRAPPER  
   [https://nxtrace.github.io/nexttracewebapi/](https://nxtrace.github.io/nexttracewebapi/)
   
 ## Nali
-  集成了NextTrace LEOMOEAPI的nali<br>
+  集成了NextTrace LEOMOEAPI的nali  
   [https://nxtrace.github.io/nali/](https://nxtrace.github.io/nali/)
 
 ## 更多项目
