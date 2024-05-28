@@ -42,6 +42,13 @@ An open source visual routing tool that pursues light weight, developed using Go
 ## NextTraceWebApi
   MTR风格的NextTrace网页WRAPPER  
   [https://nxtrace.github.io/nexttracewebapi/](https://nxtrace.github.io/nexttracewebapi/)
+
+## NextTraceroute  
+  `NextTraceroute`，一款默认使用`NextTrace API`的免`root`安卓版路由跟踪应用，由 @surfaceocean 开发。  
+  感谢所有测试用户的热情支持，本应用已经通过封闭测试，正式进入 Google Play 商店。
+
+  [https://github.com/nxtrace/NextTraceroute](https://github.com/nxtrace/NextTraceroute)  
+  <a href='https://play.google.com/store/apps/details?id=com.surfaceocean.nexttraceroute&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' width="128" height="48" src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
   
 ## Nali
   集成了NextTrace LEOMOEAPI的nali  
