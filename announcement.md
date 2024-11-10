@@ -9,7 +9,7 @@
 
 **API例行维护**
 
-_8.9.2024 16:30 UTC+8_  
+_11.10.2024 15:33 UTC+8_  
 _by @kernelcrashdump_  
 
 # 历史公告
@@ -25,7 +25,7 @@ _by @kernelcrashdump_
 
 **API例行维护**
 
-_8.9.2024 16:30 UTC+8_  
+_9.24.2024 14:32 UTC+8_  
 _by @kernelcrashdump_  
 
 -----------------
