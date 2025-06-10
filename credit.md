@@ -6,9 +6,9 @@
 
 [PeeringDB](https://www.peeringdb.com) Provided some data support for this project free of charge
 
-[sjlleo](https://github.com/sjlleo) The perpetual leader, founder, and core contributors
+[sjlleo](https://github.com/sjlleo) The perpetual leader, founder, and core contributor
 
-[tsosunchia](https://github.com/tsosunchia) The project chair, infra maintainer, and core contributors
+[tsosunchia](https://github.com/tsosunchia) The project chair, infra maintainer, and core contributor
 
 [Vincent Young](https://github.com/missuo)
 
