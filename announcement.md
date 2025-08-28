@@ -1,3 +1,31 @@
+**[测试通知]**  
+最近对 NextTrace 一些底层的代码坐了较大的变更，提升了速度，解决了一些陈年 bug  
+比如 mpls 的显示、延迟计时在一些情况下不准确、 macOS 下 tcp trace 最后一跳无法获取、 windows 下支持 udp trace 等等  
+
+考虑到其中的风险，目前版本需要较长时间的beta测试，欢迎反馈问题（附件为最新 beta 测试的预编译 BIN ）  
+
+[Release]  
+https://github.com/nxtrace/NTrace-V1/releases  
+
+_8.28.2025 21:50 UTC+8_  
+_by @tsosunchia_  
+
+# 历史公告
+
+**[软件更新]** NextTrace v1.4.2 已发布  
+相比v1.4.0:  
+ - add support for geoip data from ipdb.one by in b5673b6  
+ - add support for custom source ports and optimize some code in PR#85  
+ - 变更：FastTrace 增加上海/广州单独测试选项 in 0f8a646  
+ - 整合：LEOMOEAPI 的 SNI 改用 api.nxtrace.org in 3defedd  
+ - chore(deps)  
+
+[Release]  
+https://github.com/nxtrace/NTrace-core/releases/tag/v1.4.2  
+
+_7.27.2025 12:20 UTC+8_  
+_by @tsosunchia_  
+
 **[维护通知]**  
 **影响范围**: NextTrace API 全球所有区域服务会暂时中断  
 
@@ -11,8 +39,6 @@
 
 _2.1.2025 16:15 UTC+8_  
 _by @tsosunchia_  
-
-# 历史公告
 
 **[维护通知]**  
 **影响范围**: NextTrace API 全球所有区域服务会暂时中断
