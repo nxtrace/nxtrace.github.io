@@ -26,6 +26,8 @@ https://github.com/nxtrace/NTrace-core/releases/tag/v1.4.2
 _7.27.2025 12:20 UTC+8_  
 _by @tsosunchia_  
 
+-----------------
+
 **[维护通知]**  
 **影响范围**: NextTrace API 全球所有区域服务会暂时中断  
 
@@ -40,6 +42,8 @@ _by @tsosunchia_
 _2.1.2025 16:15 UTC+8_  
 _by @tsosunchia_  
 
+-----------------
+
 **[维护通知]**  
 **影响范围**: NextTrace API 全球所有区域服务会暂时中断
 
@@ -53,6 +57,8 @@ _by @tsosunchia_
 
 _11.10.2024 15:33 UTC+8_  
 _by @kernelcrashdump_  
+
+-----------------
 
 **[维护通知]**  
 **影响范围**: NextTrace API 全球所有区域服务会暂时中断
