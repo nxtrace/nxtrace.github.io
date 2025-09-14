@@ -1,14 +1,14 @@
 **[测试通知]**  
 最近对 NextTrace 一些底层的代码坐了较大的变更，提升了速度，解决了一些陈年 bug  
-比如 mpls 的显示、延迟计时在一些情况下不准确、 macOS 下 tcp trace 最后一跳无法获取、 windows 下支持 udp trace 等等  
+比如 mpls 的显示、延迟计时在一些情况下不准确、 macOS 下 tcp trace 最后一跳无法获取、 windows 下支持 tcp/udp trace 等等  
 
 考虑到其中的风险，目前版本需要较长时间的beta测试，欢迎反馈问题（附件为最新 beta 测试的预编译 BIN ）  
 
 [Release]  
 https://github.com/nxtrace/NTrace-V1/releases  
 
-_8.28.2025 21:50 UTC+8_  
-_by @tsosunchia_  
+_9.14.2025 17:22 UTC+8_  
+_updated by @tsosunchia_  
 
 # 历史公告
 
