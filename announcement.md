@@ -1,3 +1,11 @@
+**[情况通报]**  
+已知的问题: 由于上游故障，NextTrace API服务降级，请耐心等待上游修复。    
+  
+_9.17.2025 14:30 UTC+8_  
+_by @tsosunchia_  
+
+# 历史公告
+
 **[测试通知]**  
 最近对 NextTrace 一些底层的代码坐了较大的变更，提升了速度，解决了一些陈年 bug  
 比如 mpls 的显示、延迟计时在一些情况下不准确、 macOS 下 tcp trace 最后一跳无法获取、 windows 下支持 tcp/udp trace 等等  
@@ -10,7 +18,7 @@ https://github.com/nxtrace/NTrace-V1/releases
 _9.14.2025 17:22 UTC+8_  
 _updated by @tsosunchia_  
 
-# 历史公告
+-----------------
 
 **[软件更新]** NextTrace v1.4.2 已发布  
 相比v1.4.0:  
