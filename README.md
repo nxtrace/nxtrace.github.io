@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/nxtrace/NTrace-core/blob/main/asset/logo.png?raw=true" height="200px" alt="NXTRACE.IO Logo"/>
+<img src="https://github.com/nxtrace/NTrace-core/blob/main/assets/logo.png?raw=true" height="200px" alt="NXTRACE.IO Logo"/>
 
 </div>
 
@@ -18,7 +18,7 @@ An open source visual routing tool that pursues light weight, developed using Go
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://misaka.io" >
-        <img src="https://www.jsdelivr.com/assets/8997e39e1f9d776502ab4d7cdff9d1608aa67aaf/img/globalping/sponsors/misaka.svg" width="170.7" height="62.9">
+        <img src="https://globalping.io/assets/d8bdd023bd7ddd4f5def6dc29fef8ee018bda6b5/img/sponsors/misaka.svg" width="170.7" height="62.9">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://portal.saltyfish.io" >
