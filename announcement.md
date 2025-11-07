@@ -1,5 +1,4 @@
-应平台要求，已暂时停用 NextTrace 的 tracemap 功能  
-是否会恢复还不确定
+由于PRC jurisdictions的特殊合规要求，已屏蔽所有来自该地区的对于tracemap功能网页浏览的流量。
 
 # 历史公告
 **[维护通知]**  
