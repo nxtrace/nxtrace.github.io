@@ -1,6 +1,77 @@
-由于PRC jurisdictions的特殊合规要求，已屏蔽所有来自该地区的对于tracemap功能网页浏览的流量。
+**[通知]**  
+📊 NextTrace API 服务状态页面已上线  
+
+https://status.nxtrace.org/  
+
+可查看各地区节点的负载变化。怀疑 API 服务异常时，可先通过状态页面排查。  
+
+_8.23.2026 23:27 UTC+8_  
+_by @tsosunchia_  
 
 # 历史公告
+
+**[通知]**  
+我们已调降 NextTrace v3 API 单次验证授权所需的 credits。  
+
+如现有额度无法满足需求，建议使用 NextTrace v4 API。  
+
+_8.22.2026 19:00 UTC+8_  
+_by @tsosunchia_  
+
+-----------------
+
+**[通知]**  
+NextTrace v4 API 已上线一段时间。经过调整，Token 可用额度现已翻倍。  
+
+_8.14.2026 15:00 UTC+8_  
+_by @tsosunchia_  
+
+-----------------
+
+**[公告]**  
+**关于 NextTrace 二次开发及官方 API 使用的说明**  
+
+近期，我们注意到部分社区项目对 NextTrace 项目来源及数据来源的说明不够清晰。为减少误解，并保障官方 API 的长期稳定运行，现对相关使用边界作统一说明。  
+
+NTrace-core 采用 GPLv3 开源，社区可以依照许可证使用、修改和分发代码。但代码的开源许可与 NextTrace 官方 API 服务是两个不同的授权范围：GPLv3 授予的代码权利，并不自动包含官方服务器、接口配额及数据服务的使用权。  
+
+面向用户提供功能的网站、App、Bot、面板等第三方产品，如需直接或间接接入 NextTrace 官方 API，请提前与项目组联系并确认授权。来源标注与接口授权是两项独立要求，均需满足。  
+
+经授权使用时，请在用户能够看到的位置注明：  
+
+**“IP 地理位置及线路标注数据由 NextTrace 官方 API 提供”**  
+
+并附上 NextTrace 官网或 NTrace-core 仓库链接，同时保留接口中已有的数据来源信息。  
+
+如涉及批量查询、长期缓存、代理转发、数据再分发或商业用途，请在申请时一并说明。上述要求仅适用于 NextTrace 官方 API 服务，不影响任何人依照 GPLv3 使用 NTrace-core 代码或自行部署后端。  
+
+普通用户正常使用官方 NextTrace 客户端不受影响；自行部署后端并使用自有或另行获得授权的数据源，也不属于调用 NextTrace 官方 API，但仍需遵守相应的开源许可证及数据提供方规则。  
+
+对于已经接入官方 API 的社区项目，我们设置 30 日过渡期。欢迎在此期间联系项目组确认现有授权范围、补充来源说明，或迁移至其他合适的数据源。已有单独合作约定的项目，以原约定为准。过渡期结束后，尚未完成授权确认的调用可能无法继续获得官方 API 服务。  
+
+我们欢迎并感谢围绕 NextTrace 开展的二次开发与生态合作。本说明旨在明确代码来源、数据来源及服务授权，共同维持透明、可持续的社区环境。  
+
+参考：[NTrace-core 项目文档](https://github.com/nxtrace/NTrace-core/blob/main/README_zh_CN.md)  
+
+_8.6.2026 21:11 UTC+8_  
+_by @tsosunchia_  
+
+-----------------
+
+**[通知]**  
+仍有不少用户不了解如何让 AI Agent 调用 NextTrace。安装 NextTrace Skill 即可：  
+
+https://github.com/nxtrace/NTrace-core/blob/main/skills/nexttrace/SKILL.md  
+
+```bash
+npx skills add https://github.com/nxtrace/NTrace-core
+```
+
+_7.15.2026 16:04 UTC+8_  
+_by @tsosunchia_  
+
+-----------------
+
 **[维护通知]**  
 **影响范围**: NextTrace API 全球所有区域服务会暂时中断  
 
