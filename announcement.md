@@ -1,3 +1,14 @@
+**[公告]**  
+（尤其是对于下游开发者需要注意）NextTrace将最早于2027年切换默认显示模式为 MTR 输出模式，目前的传统 TraceRoute 输出模式将作为可选参数提供（一并切换的还有 RAW 输出模式）。  
+
+传统输出模式: `-k/--traceroute`  
+MTR输出模式: `-t/--mtr`  
+
+_9.6.2026 10:07 UTC+8_  
+_by @tsosunchia_  
+
+# 历史公告
+
 **[通知]**  
 📊 NextTrace API 服务状态页面已上线  
 
@@ -7,8 +18,6 @@ https://status.nxtrace.org/
 
 _8.23.2026 23:27 UTC+8_  
 _by @tsosunchia_  
-
-# 历史公告
 
 **[通知]**  
 我们已调降 NextTrace v3 API 单次验证授权所需的 credits。  
