@@ -19,6 +19,8 @@ https://status.nxtrace.org/
 _8.23.2026 23:27 UTC+8_  
 _by @tsosunchia_  
 
+-----------------
+
 **[通知]**  
 我们已调降 NextTrace v3 API 单次验证授权所需的 credits。  
 
